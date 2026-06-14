@@ -1,4 +1,4 @@
-# 🚀 SWE Profile UI (Flutter Assignment)
+# SWE Profile UI (Flutter Assignment)
 
 A modern Flutter-based Profile UI application built for Software Engineering assignment.  
 This project demonstrates UI design, state management using setState, and responsive layout.
@@ -45,3 +45,9 @@ Scaffold, AppBar, Container, Padding, SizedBox, Center, Row, Column, Expanded, S
 ```bash
 flutter pub get
 flutter run
+---
+## Author
+Fahmida Chowdhury Tamanna
+ID: 232-134-021
+Batch SWE-5th
+Metropolitan University
