@@ -282,7 +282,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
             _detailCard(
               Icons.badge_outlined,
               'Student ID',
-              'SWE-2025-045',
+              '232-134-021',
               cardBg,
               secondary,
             ),
