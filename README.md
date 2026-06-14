@@ -35,11 +35,8 @@ Scaffold, AppBar, Container, Padding, SizedBox, Center, Row, Column, Expanded, S
 
 ## 📸 Screenshots
 
-### 🌞 Light Mode
-![Light Mode](screenshots/light_mode.jpeg)
-
-### 🌙 Dark Mode
-![Dark Mode](screenshots/dark_mode.jpeg)
+<img src="screenshots/light_mode.jpeg" width="220"/>
+<img src="screenshots/dark_mode.jpeg" width="220"/>
 
 ---
 
